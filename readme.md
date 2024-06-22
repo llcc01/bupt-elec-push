@@ -6,7 +6,7 @@
 
 `buptelecmon` `python-dotenv`
 
-`pypi` 中的 `buptelecmon` 库的版本较老，若您无法登录北邮身份认证系统，请到源仓库中下载源码安装。
+`pypi` 中 `buptelecmon` 的版本较老，若您无法登录北邮身份认证系统，请到源仓库中下载源码安装。
 
 ## 配置说明
 
